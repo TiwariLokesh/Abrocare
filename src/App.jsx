@@ -9,9 +9,9 @@ import Services from './components/Services';
 const App = () => {
   return (
     <div className="App">
-      <Navbar />
-      <main className="pt-0"> {/* Adjust padding to account for fixed navbar */}
-        <Hero />
+      <Navbar/>
+      <main className="pt-0"> 
+        <Hero/>
         <Screenshot/>
         <Features/>
         <About/>
