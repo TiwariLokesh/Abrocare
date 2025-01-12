@@ -56,7 +56,6 @@ export const About = () => {
                   ))}
                 </ul>
 
-                {/* Right List */}
                 <ul className="list-disc pl-6 text-gray-600">
                   {aboutData.Why2.map((item, index) => (
                     <li key={index} className="mb-2">
