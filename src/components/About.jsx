@@ -9,7 +9,7 @@ export const About = () => {
       "Lorem ipsum dolor",
       "Tempor incididunt",
       "Lorem ipsum dolor",
-     
+     "Aliquip ex ea commodo",
     ],
     Why2: [
       "Aliquip ex ea commodo",
