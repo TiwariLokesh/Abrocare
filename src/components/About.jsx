@@ -24,7 +24,9 @@ export const About = () => {
       <div className="container mx-auto max-w-6xl px-6">
         <div className="flex flex-col lg:flex-row items-center gap-8">
           {/* Left Image */}
+
           <div className="w-full lg:w-1/2">
+          
             <img
               src={Ss}
               alt="About Us"
