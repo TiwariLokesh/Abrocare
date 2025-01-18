@@ -34,6 +34,8 @@ export const About = () => {
             />
           </div>
 
+          
+
           {/* Right Text Content */}
           <div className="w-full lg:w-1/2">
             <div className="about-text">
