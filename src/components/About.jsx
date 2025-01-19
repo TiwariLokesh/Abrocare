@@ -39,6 +39,7 @@ export const About = () => {
           {/* Right Text Content */}
           <div className="w-full lg:w-1/2">
             <div className="about-text">
+            
               <h2 className="text-4xl font-bold text-gray-800 mb-4">
                 About Us
               </h2>
