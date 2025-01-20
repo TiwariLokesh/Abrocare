@@ -42,6 +42,7 @@ export const About = () => {
             
               <h2 className="text-4xl font-bold text-gray-800 mb-4">
                 About Us
+                
               </h2>
               <p className="text-gray-600 text-lg leading-relaxed mb-6">
                 {aboutData.paragraph}
